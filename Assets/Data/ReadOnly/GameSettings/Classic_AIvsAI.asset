@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5ebdbb1093ba5f44883dd0ee2111b1a1, type: 3}
+  m_Name: Classic_AIvsAI
+  m_EditorClassIdentifier: 
+  _ruleSettings: {fileID: 11400000, guid: b747339edb3f9ab4c8f51a43bc5c3510, type: 2}
+  _players:
+  - {fileID: 11400000, guid: 53b49ea60846c634a98d904e4cb5334a, type: 2}
+  - {fileID: 11400000, guid: 53b49ea60846c634a98d904e4cb5334a, type: 2}
+  _boardSettings: {fileID: 11400000, guid: 00a45e51b760aaf4bb1bcb8f85697dff, type: 2}
+  _seed: {fileID: 11400000, guid: 7f45ffe9a0aedb74ea18ceefa58c648f, type: 2}
