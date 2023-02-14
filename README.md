@@ -8,7 +8,7 @@ Two game rules modifications:
 Classic - the winners of each round will move one tile forward.
 Avatar - the winners of each round will move one tile forward and by an additional tile if they won by playing their Avatar card. Players avatar card is randomly selected at the start of the match and is known to all players.
 
-As game data are stored in Scriptable Object assets, following exposed properties can be changed: game mode rules, number of players and their strategies, game board size, random seed. All Scriptable Object assets are expected to be set in the Unity Editor.
+As game data are stored in Scriptable Object assets, following exposed properties can be changed: game rules, number of players and their strategies, game board size, random seed. All Scriptable Object assets are expected to be set in the Unity Editor.
 
 Notes:
 Currently only simulated play of AI vs AI is supported. 1000 matches is played by default. The result is logged to the Console.
